@@ -5,8 +5,8 @@ import time
 import requests
 
 # ---------- CONFIG ----------
-WEATHER_API_KEY = "11c5ae9c10bfdc9b1fb41d9380bbf25b"
-NEWS_API_KEY = "6f912309491b4ffbae9ddfc6077d6a87"
+WEATHER_API_KEY = "YOUR API"
+NEWS_API_KEY = "YOUR API"
 CITY = "Mumbai"
 WAKE_WORD = "hey assistant"
 # ----------------------------
